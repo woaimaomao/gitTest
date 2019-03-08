@@ -4,3 +4,6 @@
 git status
 
 gitk --simplify-by-decoration --all
+
+
+gitk --simplify-by-decoration --all
