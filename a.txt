@@ -2,3 +2,5 @@
 记录每次更新到仓库
 
 git status
+
+gitk --simplify-by-decoration --all
